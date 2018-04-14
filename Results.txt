@@ -1,0 +1,23 @@
+Number of variants called from CFTR.bam : 76
+Number of variants after quality filter (QUAL >=40): 50
+VEP results for CFTR_HG00121_QUAL40.vcf: VEP/CFTR_HG00121.txt; VEP/CFTR_HG00121.txt_summary.html 
+VEP results for CFTR_HG00121_QUAL40.vcf with CF-relevant variants: VEP/CFTR_HG00121_CF-relevant.txt 
+
+RESULTS for CFTR_HG00121_QUAL40.vcf:
+HG00121 individual does not have variants implicated in cystic fibrosis.
+Number of variants called in CFTR_HG00121_1000genomes_VAR.vcf: 106
+There are 49 common variants between CFTR_HG00121_QUAL40.vcf and CFTR_HG00121_1000genomes_VAR.vcf
+117198607 is unique variant position to CFTR_HG00121_QUAL40.vcf.gz, not present in CFTR_HG00121_1000genomes_VAR.vcf
+VEP results for CFTR_HG00121_1000genomes_VAR.vcf: VEP/CFTR_HG00121_1000genomes.txt; VEP/CFTR_HG00121_1000genomes.txt_summary.html 
+VEP results for CFTR_HG00121_1000genomes_VAR.vcf with CF-relevant variants: VEP/CFTR_HG00121_1000genomes_CF-relevant.txt
+
+RESULTS for CFTR_HG00121_1000genomes_VAR.vcf
+HG00121 individual does not have variants implicated in cystic fibrosis.
+
+CONCLUSIONS: 
+There are 50 variants (QUAL >=40) in CFTR_HG00121_QUAL40.vcf and 106 variants in CFTR_HG00121_1000genomes_VAR.vcf
+One of the variants present in CFTR_HG00121_QUAL40.vcf is not found in CFTR_HG00121_1000genomes_VAR.vcf
+These differences are likely the result of 
+1) differences in the data analyzed (CFTR_HG00121_QUAL40.vcf is based on the subset of data used to generate CFTR_HG00121_1000genomes_VAR.vcf)
+2) differences in variant calling tools
+(The Genomes Project C. (2015). A global reference for human genetic variation. Nature, 526, 68. doi: 10.1038/nature15393)
